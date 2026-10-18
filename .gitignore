@@ -1,0 +1,15 @@
+node_modules/
+frontend/build/
+frontend/dist/
+__pycache__/
+backend/venv/
+.venv/
+*.pyc
+.env
+.env.local
+.DS_Store
+.claude/
+submission-kit/pitch-deck.html
+*.log
+firebase-debug.log
+.firebase/
